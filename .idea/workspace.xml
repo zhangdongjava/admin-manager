@@ -183,7 +183,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-49" />
     <option name="y" value="203" />
     <option name="width" value="1932" />
@@ -239,7 +239,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546014992681" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546015262082" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/service-registory-center" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -304,7 +304,7 @@
       <workItem from="1545918497528" duration="8773000" />
       <workItem from="1545968196347" duration="95000" />
       <workItem from="1546000899279" duration="9010000" />
-      <workItem from="1546014361340" duration="628000" />
+      <workItem from="1546014361340" duration="897000" />
     </task>
     <task id="LOCAL-00001" summary="公用的控制层">
       <created>1545923509811</created>
@@ -345,7 +345,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18506000" />
+    <option name="totallyTimeSpent" value="18775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
