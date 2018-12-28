@@ -1,0 +1,21 @@
+server:
+  port: 8102
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: false
+    service-url:
+      defaultZone: http://127.0.0.1:8200/eureka
+  #durid
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://39.109.122.92:3306/blog
+      username: root
+      password: zhang123456
+
+  application:
+    name: log-manager #服务名称
+

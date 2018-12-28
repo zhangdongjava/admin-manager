@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin-manager/admin-manager.iml" filepath="$PROJECT_DIR$/admin-manager/admin-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-manager/core/core.iml" filepath="$PROJECT_DIR$/log-manager/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-manager/facade/facade.iml" filepath="$PROJECT_DIR$/log-manager/facade/facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log-manager/log-manager.iml" filepath="$PROJECT_DIR$/log-manager/log-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../log-manager/log-manager-api/log-manager-api.iml" filepath="$PROJECT_DIR$/../log-manager/log-manager-api/log-manager-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registory-center/service-registory-center.iml" filepath="$PROJECT_DIR$/service-registory-center/service-registory-center.iml" />
+    </modules>
+  </component>
+</project>
